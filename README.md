@@ -5,6 +5,7 @@ simple example for REST-API in Node.js
 - Expressjs
 - Sequelize
 - Mysql
+- dotenv
 
 ### What is REST API?
 The term REST stands for REpresentational State Transfer. It is an architectural style that defines a set of rules in order to create Web Services. 
@@ -16,3 +17,6 @@ Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite an
 
 ### Expressjs
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+### dotenv
+Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
